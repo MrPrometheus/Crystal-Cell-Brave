@@ -1,8 +1,10 @@
-= Crystal-Cell-Brave
+# Crystal-Cell-Brave
+==================================
 AR project
 
 
--- Markers that the application recognizes // Маркеры, которые распознает приложение
+### EU: Markers that the application recognizes // RU: Маркеры, которые распознает приложение
+---------------------------------
 
 ![Monoclinic syngony](https://github.com/MrPrometheus/Crystal-Cell-Brave/tree/master/Assets/ARFiles/Markers/Monoklinnaya.png)
 ![Rhombic syngony](https://github.com/MrPrometheus/Crystal-Cell-Brave/tree/master/Assets/ARFiles/Markers/Rombicheskaya.png)
