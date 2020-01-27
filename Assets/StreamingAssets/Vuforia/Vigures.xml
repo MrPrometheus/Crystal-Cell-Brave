@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TriklinnayaSingoniya" size="1.000000 0.872727" />
+    <ImageTarget name="Trigonalnaya" size="1.000000 0.892727" />
+    <ImageTarget name="Tetragonalnaya" size="1.000000 0.872727" />
+    <ImageTarget name="Kubicheskaya" size="1.000000 0.872727" />
+    <ImageTarget name="Geksagonalnaya" size="1.000000 0.872727" />
+    <ImageTarget name="Rombicheskaya" size="1.000000 0.573477" />
+    <ImageTarget name="Monoklinnaya" size="1.000000 0.871143" />
+  </Tracking>
+</QCARConfig>
